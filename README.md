@@ -26,5 +26,4 @@ This course helped me strengthen my practical skills in Excel and improve my abi
 
 ## Certificate
 
-[View / Download Certificate](Siya-Gaikwad-Excel-Advanced-Excel-Certificate.PNG
-)
+[View / Download Certificate](Siya-Gaikwad-Excel-Advanced-Excel-Certificate.PNG)
