@@ -26,4 +26,4 @@ This course helped me strengthen my practical skills in Excel and improve my abi
 
 ## Certificate
 
-![Excel & Advanced Excel Certificate](Excel%20%26%20Adv%20Excel.jpg)
+![Excel & Advanced Excel Certificate](Excel%20%26%20Adv%20Excel.png)
